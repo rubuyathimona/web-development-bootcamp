@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+img {
+    height: 350px;
+    width: 100%;
+    border: 5px solid white;
+}
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(208, 30, 30);
+    text-align: center;
+
+}
+p {
+    color: rgb(237, 233, 46);
+}
